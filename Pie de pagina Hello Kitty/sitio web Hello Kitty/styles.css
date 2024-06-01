@@ -1,0 +1,17 @@
+body {
+  background-color: pink; /* Fondo verde */
+  text-align: justify; /* Texto justificado */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 2em; /* Títulos más grandes */
+  text-transform: uppercase; /* Formato de título en mayúsculas */
+  font-weight: bold; /* Títulos en negrita */
+  color: black; /* Color de texto de los títulos */
+}
+
+p {
+  margin: 1.5em; /* Margen alrededor de los párrafos */
+  line-height: 1.6; /* Espaciado entre líneas */
+  color: black; /* Color de texto de los párrafos */
+}
